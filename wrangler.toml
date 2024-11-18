@@ -2,6 +2,7 @@
 name = "cf-next-hono"
 compatibility_date = "2024-04-10"
 compatibility_flags = ["nodejs_compat"]
+account_id = "78c5e16d147e55bb59473ea5209158a5"
 
 [env.production]
 compatibility_date = "2024-04-10"
